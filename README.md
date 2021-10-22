@@ -1,7 +1,7 @@
 # Victor de Godoy Terror
 
 <div>
-  <a href="https://github.com/VictorTerror">
+  <a href="https://github.com/VictorTerror?tab=repositories">
   <img height="270em" src=https://github-readme-stats.vercel.app/api?username=victorterror&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
