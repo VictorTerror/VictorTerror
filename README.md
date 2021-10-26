@@ -27,6 +27,7 @@ Olá, meu nome é Victor, tenho 32 anos. Sou formado em Administração de Empre
  Analytics: <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
             <img align="center" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
             <img align="center" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+            <img align="center" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
     
     
  Development: <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -34,6 +35,9 @@ Olá, meu nome é Victor, tenho 32 anos. Sou formado em Administração de Empre
               <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
               <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
               <img align="center" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+    
+    
+ Machine Learning: <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     
     
  Cloud:     <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
