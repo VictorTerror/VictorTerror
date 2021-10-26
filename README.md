@@ -19,6 +19,8 @@ Olá, meu nome é Victor, tenho 32 anos. Sou formado em Administração de Empre
 ## Tools
 <div style="display": inline_block"><br>
     
+ Cloud:     <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    
     
  Database:  <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
             <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -40,7 +42,6 @@ Olá, meu nome é Victor, tenho 32 anos. Sou formado em Administração de Empre
  Machine Learning: <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     
     
- Cloud:     <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
      
     
 ![Snake anamation](https://github.com/VictorTerror/victorterror/blob/output/github-contribution-grid-snake.svg)
