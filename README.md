@@ -15,7 +15,7 @@
 
 ## About Me                                  
 
-**Olá, meu nome é Victor, tenho 32 anos. Sou formado em Administração de Empresas pela Fundação Santo André e Analise e Desenvolvimento de Sistemas pela faculdade Anhembi Morumbi. Atualmente realizo minha transição de carreira para Ciencia de Dados. Nos últimos 11 meses venho estudando e realizando projetos práticos, de ciencia de dados, que simulam o dia a dia de um Cientista de Dados em uma empresa real, desde o entendimento do negócio e a coleta dos dados até o deploy do modelo em produção. Estou a procura de novos desafios que me permitam chegar mais pŕoximo dos meus objetivos. Me sinto preparado para realizar projetos de ponta a ponta e gerar insights valiosos para a empresa.**                     
+**Olá, meu nome é Victor, tenho 32 anos. Sou formado em Administração de Empresas pela Fundação Santo André e Analise e Desenvolvimento de Sistemas pela faculdade Anhembi Morumbi. Atualmente realizo minha transição de carreira para Ciencia de Dados. Nos últimos 11 meses venho estudando e realizando projetos práticos, que simulam o dia a dia de um Cientista de Dados em uma empresa real, desde o entendimento do negócio e a coleta dos dados até o deploy do modelo em produção. Estou a procura de novos desafios que me permitam chegar mais pŕoximo dos meus objetivos. Me sinto preparado para realizar projetos de ponta a ponta e gerar insights valiosos para a empresa.**                     
 
 ## Tools
 <div style="display": inline_block"><br>
