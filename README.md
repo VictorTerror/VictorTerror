@@ -15,8 +15,21 @@
 
 ## About Me                                  
 
-**Olá, meu nome é Victor, tenho 32 anos. Sou formado em Administração de Empresas pela Fundação Santo André e Analise e Desenvolvimento de Sistemas pela faculdade Anhembi Morumbi. Atualmente realizo minha transição de carreira para Ciencia de Dados. Nos últimos 11 meses venho estudando e realizando projetos práticos, que simulam o dia a dia de um Cientista de Dados em uma empresa real, desde o entendimento do negócio e a coleta dos dados até o deploy do modelo em produção. Estou a procura de novos desafios que me permitam chegar mais pŕoximo dos meus objetivos. Me sinto preparado para realizar projetos de ponta a ponta e gerar insights valiosos para a empresa.**                     
-
+Olá, meu nome é Victor, tenho 32 anos. Sou formado em Administração de Empresas pela Fundação Santo André e Analise e Desenvolvimento de Sistemas pela faculdade Anhembi Morumbi. Atualmente realizo minha transição de carreira para Ciencia de Dados. Nos últimos 11 meses venho estudando e realizando projetos práticos, que simulam o dia a dia de um Cientista de Dados em uma empresa real, desde o entendimento do negócio e a coleta dos dados até o deploy do modelo em produção. Estou a procura de novos desafios que me permitam chegar mais pŕoximo dos meus objetivos. Me sinto preparado para realizar projetos de ponta a ponta e gerar insights valiosos para a empresa.
+    
+    
+ ## Projects
+<div>
+  
+<a href="https://github.com/VictorTerror/DataScience_Em_Producao">Rossmann Sales Predict:</a> **Projeto de ponta a ponta que vai desde a análise exploratória de dados até o deploy do modelo na plataforma Heroku, utilizando algorítimos de Machine Learning para realizar a previsão de vendas, das lojas da rede Rossmann, para as pŕoximas 6 semanas.**</br>
+    </br>
+<a href="https://github.com/VictorTerror/House_Sales_Insights">House Sales Insights:</a></br>
+  </br>
+<a href="https://github.com/VictorTerror/Health_Insurance_Cross_Sell">Health Insurance Cross Sell:</a></br>
+   
+</div>
+  
+  
 ## Tools
 <div style="display": inline_block"><br>
     
