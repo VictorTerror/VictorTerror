@@ -21,9 +21,9 @@ Olá, meu nome é Victor, tenho 32 anos. Sou formado em Administração de Empre
  ## Projects
 <div>
   
-<a href="https://github.com/VictorTerror/DataScience_Em_Producao">Rossmann Sales Predict:</a> **Projeto de ponta a ponta que vai desde a análise exploratória de dados até o deploy do modelo na plataforma Heroku, utilizando algorítimos de Machine Learning para realizar a previsão de vendas, das lojas da rede Rossmann, para as pŕoximas 6 semanas.**</br>
+<a href="https://github.com/VictorTerror/DataScience_Em_Producao">Rossmann Sales Predict:</a> **Projeto de ponta a ponta que vai desde a análise exploratória de dados até o deploy do modelo, em produção, na cloud Heroku, utilizando algorítimos de Machine Learning para realizar a previsão de vendas, das lojas da rede Rossmann, para as pŕoximas 6 semanas.**</br>
     </br>
-<a href="https://github.com/VictorTerror/House_Sales_Insights">House Sales Insights:</a></br>
+<a href="https://github.com/VictorTerror/House_Sales_Insights">House Sales Insights:</a> **Tem como objetivo a solução do problema de negócios apenas com  uma excelente análise exploratória de dados e utilizando a biblioteca streamlit para a visualização dos dados.**</br>
   </br>
 <a href="https://github.com/VictorTerror/Health_Insurance_Cross_Sell">Health Insurance Cross Sell:</a></br>
    
