@@ -5,8 +5,6 @@
     
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=victorterror&show_icons=true&include_all_commits=true&count_private=true"/>
     
-    [![Anurag's GitHub stats](https://github-readme-stats-brundabharadwaj.vercel.app/api?username=VictorTerror
-)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
 
