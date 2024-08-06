@@ -4,8 +4,8 @@
   <a href="https://github.com/VictorTerror?tab=repositories">
     
 <div>
-  <a href="https://github.com/borgesds">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=borgesds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/VictorTerror">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=VictorTerror&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <br>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTerror&layout=compact&langs_count=7&theme=react" />
 
